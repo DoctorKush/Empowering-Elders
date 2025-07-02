@@ -1,8 +1,8 @@
 # Empowering-Elders
-# Empowering Elders – Cloud-based AI CREW
+# Empowering Elders – Cloud-based ELDA
 
 ## Overview
-Empowering Elders is an innovative project aimed at supporting elderly individuals in their daily lives using a cloud-based (or optionally local) AI assistant platform called “AI CREW.” The goal is to empower elders to maintain independence, engage with the world, and improve their well-being by providing personalized assistance, education, entertainment, and health monitoring.
+Empowering Elders is an innovative project aimed at supporting elderly individuals in their daily lives using a cloud-based (or optionally local) AI assistant platform called “ELDA.” The goal is to empower elders to maintain independence, engage with the world, and improve their well-being by providing personalized assistance, education, entertainment, and health monitoring.
 
 ## Problem Statement
 Many elders face challenges with daily routines, social isolation, health management, and adapting to new technologies. There is a growing need for accessible solutions that can help elders stay active, socially connected, and healthy—both mentally and physically.
